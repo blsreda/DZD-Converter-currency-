@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abhaya+Libre:wght@400;500;600;700;800&family=Archivo:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Belanosima:wght@400;600;700&family=Itim&family=Josefin+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Orbitron:wght@400;500;600;700;800;900&family=Playfair:ital,wght@0,300;0,600;0,700;0,800;1,300;1,400;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;0,900;1,100;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,300;0,500;0,900;1,200;1,300;1,500;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,600;0,800;1,100;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-image: linear-gradient(355deg, hsl(0deg 0% 100%) 0%, hsl(209deg 81% 98%) 11%, hsl(209deg 81% 96%) 22%, hsl(209deg 81% 94%) 33%, hsl(209deg 82% 91%) 44%, hsl(208deg 82% 89%) 56%, hsl(208deg 83% 87%) 67%, hsl(207deg 83% 84%) 78%, hsl(207deg 83% 81%) 89%, hsl(206deg 84% 78%) 100%);
+}
+
+.title {
+  color: #1F2261;
+  text-align: center;
+  font-size: 25px;
+  font-family: Agdasima;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.firstbox,
+.dzdres {
+  color: #26278D;
+  font-size: 20px;
+  font-family: Agdasima;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+
+#amountInput {
+  font-size: 15px;
+  border-radius: 3px;
+  width: 141px;
+  height: 45px;
+  flex-shrink: 0;
+}
+
+.dzdres p2 {
+  color: #33ff00;
+  background-color: #26278D;
+  font-size: 30px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4rem;
+}
+
+button {
+  background: #33ff00;
+  cursor: pointer;
+  color: #26278D;
+  font-size: 30px;
+  font-family: Agdasima;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 3px;
+}
+
+.rate {
+  color: #26278D;
+  font-size: 30px;
+  font-family: Agdasima;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 2rem;
+  text-align: center;
+}
